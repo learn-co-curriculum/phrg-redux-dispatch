@@ -147,3 +147,4 @@ Second, it ensured that each time our state updates, our HTML updates to reflect
 
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/redux-dispatch'>Redux Dispatch</a> on Learn.co and start learning to code for free.</p>
+<p data-visibility='hidden'>PHRG Persisting State and Displaying State</p>
